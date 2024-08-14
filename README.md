@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm SAI VIKRAM KUPPALA </font></h1>
-<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/sai-vikram-kuppala-3a756a16a/" target="_blank" rel="noreferrer">Sai</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. I’m interested in designing, automating, and optimizing development operations processes. I’m looking to collaborate on continuous integration (CI) and continuous deployment (CD) pipelines.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sai-vikram-kuppala-3a756a16a/" target="_blank" rel="noreferrer"></a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. I’m interested in designing, automating, and optimizing development operations processes. I’m looking to collaborate on continuous integration (CI) and continuous deployment (CD) pipelines.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
